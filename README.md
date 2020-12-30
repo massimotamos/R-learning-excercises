@@ -1,1 +1,1 @@
-# R-learning-excercises
+# R-learning-exercises
